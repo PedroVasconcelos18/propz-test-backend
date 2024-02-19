@@ -27,7 +27,7 @@ After, open the terminal and run the command below to install all dependencies t
     
 ## Run Locally
 
-To start the web application, execute the command below.
+To start the server, execute the command below.
 
 ```bash
    ./gradlew bootRun
