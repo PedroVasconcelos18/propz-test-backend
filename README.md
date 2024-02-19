@@ -8,8 +8,12 @@ This project serves as a technical test for Propz, aimed at building a Java Web 
 ### Quick explanations about the problem
 
   A Perfect Number is defined as a positive integer that equals the sum of its proper divisors. 
-  In the case of 6, its proper divisors are 1, 2, 3 and their sum is 1 + 2 + 3 = 6. 
+  In the case of 6, its proper divisors are 1, 2, and 3 and their sum is 1 + 2 + 3 = 6. 
   Since this sum equals the number itself, 6 qualifies as a Perfect Number.
+
+## Tech Stack
+
+Java 17, SpringBoot, JUnit, Mockito
 
 ## Installation
 
